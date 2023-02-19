@@ -1,0 +1,23 @@
+{
+  "name": "frontend-mentor-projects",
+  "version": "1.0.0",
+  "description": "- [website](https://www.frontendmentor.io/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "projects/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchu51/frontend-mentor-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchu51/frontend-mentor-projects/issues"
+  },
+  "homepage": "https://github.com/jchu51/frontend-mentor-projects#readme"
+}
